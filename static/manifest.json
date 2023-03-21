@@ -1,19 +1,24 @@
 {
-  "name": "example-name",
-  "short_name": "example",
-	"theme_color": "#32373B",
-  "background_color": "#32373B",
-  "display": "minimal-ui",
-  "start_url": "/",
-  "icons": [
-		{
-			"src": "/icon.png",
-			"sizes": "512x512"
-		},
-		{
-			"src": "/maskable_icon.png",
-			"sizes": "512x512",
-			"purpose": "maskable"
-		}
+	"background_color": "#2B2727",
+	"description": "PWA Utility",
+	"dir": "ltr",
+	"display": "standalone",
+	"name": "appteste2.vercel",
+	"orientation": "any",
+	"scope": "/",
+	"short_name": "appteste2.vercel",
+	"start_url": "/",
+	"theme_color": "#2B2727",
+	"categories": [
+	  "utilities"
+	],
+	
+	"icons": [
+	  {
+		"src": "./icon.png",
+		"type": "image/png",
+		"sizes": "128x128"
+	  }
 	]
-}
+	
+  }
