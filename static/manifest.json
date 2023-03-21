@@ -1,5 +1,5 @@
 {
-	"background_color": "#2B2727",
+	"background_color": "#FFFFFF",
 	"description": "PWA Utility",
 	"dir": "ltr",
 	"display": "standalone",
@@ -8,7 +8,7 @@
 	"scope": "/",
 	"short_name": "appteste2.vercel",
 	"start_url": "/",
-	"theme_color": "#2B2727",
+	"theme_color": "#1f2937",
 	"categories": [
 	  "utilities"
 	],
